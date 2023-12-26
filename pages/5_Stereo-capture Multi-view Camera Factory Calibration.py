@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # """
-# Created on Sat Apr 27 2023
 
-# @author: laksh
 # """
 
 # This code is modified in the following aspects for treating unknown during bundle adjustment:
